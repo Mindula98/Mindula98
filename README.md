@@ -9,7 +9,6 @@
 </div>
 
 ----
-
 <h4 align="center">
 :man_technologist: I'm an undergraduate student in my final year at the Sri Lanka Institute of Information Technology. In order to advance my professional abilities and expertise, I am searching for a challenging employment opportunity. I consider myself to be a creative, focused, and determined person.
 </h4>
